@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+.one, .two {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+.one {
+  background-image: url(1.png);
+}
+.two {
+  background-image: url(2.png);
+}

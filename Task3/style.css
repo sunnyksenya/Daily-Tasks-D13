@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin: 5% auto;
+}
+#test {
+  width: 250px;
+  height: 250px;
+  background-color: #0099cc;
+}
+p {
+  width: 100px;
+}
+#image {
+  width: 250px;
+  margin: 50px auto;
+  display: block;
+}
+#slider_box {
+  width: 250px;
+  border: 1px solid black;
+  height: 250px;
+  overflow: hidden;
+}
+#service_box {
+  position: relative;
+}
+.slider_image {
+  display: block;
+  position: relative;
+}
+#round_box {
+  width: 500px;
+  border: 1px solid black;
+  height: 250px;
+  overflow: hidden;
+}
+.round_image {
+  position: relative;
+}

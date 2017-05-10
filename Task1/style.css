@@ -1,0 +1,22 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+html {
+  font-size: 14px;
+}
+.test {
+  font-size: 1rem;
+  width: 40%;
+  margin: 30px auto;
+}
+.t2 {
+  font-size: 1.2rem;
+}
+.t3 {
+  font-size: 1rem;
+}
+@@media screen and (max-width: 900px) {
+    html {font-size: 28px;}
+}
